@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650648618594",
+    "firebase_url": "https://pety-955f3.firebaseio.com",
+    "project_id": "pety-955f3",
+    "storage_bucket": "pety-955f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650648618594:android:965d06e36e331ee8dff33b",
+        "android_client_info": {
+          "package_name": "com.alfaatolye.pety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650648618594-2h3jhq8mpn2rovof9ucrspkeisdcoqbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfaatolye.pety",
+            "certificate_hash": "b95f91d0d8634f50a56fb184e62bbba936c74538"
+          }
+        },
+        {
+          "client_id": "650648618594-h97a2mpjj9ocq92k6qf89vaaos3j2323.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJVxsLcCXlPPDHj61olkI1oD0vCR6Vm_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650648618594-h97a2mpjj9ocq92k6qf89vaaos3j2323.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
